@@ -56,3 +56,30 @@ div.propriete.admonition{border-color:#404140;}
 div.propriete > p.admonition-title{background-color:#d4d4d4;color:#404140;}
 div.propriete > p.admonition-title::after{color:#404140;content: "\f013";}
 
+section{
+    margin-left: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto 1fr;
+    grid-gap: 16px;
+}
+section h1{
+    grid-column: 1 / 3;
+}
+
+section section{
+    display: block;
+    border: solid 1px rgb(87, 106, 161);
+    border-radius: 12px;
+    padding-top: 0px;
+}
+section h2{
+    font-size: 1.4em;
+    margin: 0px auto 16px;
+    min-height: 80px;
+    padding: 8px;
+    background: #abd8f4;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom: solid 2px rgb(87,106,161);
+}
