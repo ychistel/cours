@@ -1,9 +1,20 @@
 NSI en Terminale
 =================
 
-.. _`programmation dynamique`: https://ychistel.github.io/tnsi_prog_dynamique/index.html
+Programmation orienté objet
+---------------------------
+
+.. _POO: https://ychistel.github.io/tnsi_poo
+
+
+
+
 
 Les algorithmes avancés
 -----------------------
 
-La programmation dynamique: `programmation dynamique`_
+.. _`programmation dynamique`: https://ychistel.github.io/tnsi_prog_dynamique
+.. _Boyer-Moore : https://ychistel.github.io/tnsi_boyer_moore
+
+-   La programmation dynamique: `programmation dynamique`_
+-   Recherche textuelle : Boyer-Moore_

@@ -64,8 +64,11 @@ Interface Homme Machine (IHM)
 -----------------------------
 
 .. _`langages du web` : https://ychistel.github.io/
-.. _interactivité: https://ychistel.github.io/
+.. _javascript: https://ychistel.github.io/
 .. _formulaire: https://ychistel.github.io/
 .. _`requêtes HTTP`: https://ychistel.github.io/
 
-
+-   Langage HTML et CSS : `langages du web`_
+-   Interactivité dasn une page web: javascript_
+-   Envoi de données avec une page web : formulaire_
+-   Requêtes HTTP: `requêtes HTTP`_
