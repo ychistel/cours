@@ -73,13 +73,15 @@ section section{
     border-radius: 12px;
     padding-top: 0px;
 }
-section h2{
-    font-size: 1.4em;
+section h2, .bd-article-container h2{
+    font-size: 1.25em;
+    color: #fff;
     margin: 0px auto 16px;
     min-height: 80px;
     padding: 8px;
-    background: #abd8f4;
+    background: #4c758e;
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
     border-bottom: solid 2px rgb(87,106,161);
 }
+
