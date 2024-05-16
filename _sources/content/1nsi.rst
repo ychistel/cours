@@ -65,9 +65,8 @@ Interface Homme Machine (IHM)
 
 .. _`langages du web` : https://ychistel.github.io/1nsi_ihm_web/
 .. _formulaire: https://ychistel.github.io/
-.. _`requêtes HTTP`: https://ychistel.github.io/requete_HTTP/
+.. _`requêtes HTTP`: https://ychistel.github.io/1nsi_requete_http/
 
 -   Requêtes HTTP: `requêtes HTTP`_
 -   Langage HTML et CSS : `langages du web`_
 -   Envoi de données avec une page web : formulaire_
-
