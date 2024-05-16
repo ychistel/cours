@@ -63,12 +63,11 @@ Les algorithmes
 Interface Homme Machine (IHM)
 -----------------------------
 
-.. _`langages du web` : https://ychistel.github.io/
-.. _javascript: https://ychistel.github.io/
+.. _`langages du web` : https://ychistel.github.io/1nsi_ihm_web/
 .. _formulaire: https://ychistel.github.io/
-.. _`requêtes HTTP`: https://ychistel.github.io/
+.. _`requêtes HTTP`: https://ychistel.github.io/requete_HTTP/
 
--   Langage HTML et CSS : `langages du web`_
--   Interactivité dasn une page web: javascript_
--   Envoi de données avec une page web : formulaire_
 -   Requêtes HTTP: `requêtes HTTP`_
+-   Langage HTML et CSS : `langages du web`_
+-   Envoi de données avec une page web : formulaire_
+
