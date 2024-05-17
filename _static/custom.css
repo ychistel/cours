@@ -85,3 +85,6 @@ section h2, .bd-article-container h2{
     border-bottom: solid 2px rgb(87,106,161);
 }
 
+section#nsi-snt{
+    display:block;
+}
