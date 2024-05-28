@@ -64,7 +64,7 @@ Interface Homme Machine (IHM)
 -----------------------------
 
 .. _`langages du web` : https://ychistel.github.io/1nsi_ihm_web/
-.. _formulaire: https://ychistel.github.io/
+.. _formulaire: https://ychistel.github.io/1nsi_ihm_formulaire/
 .. _`requêtes HTTP`: https://ychistel.github.io/1nsi_requete_http/
 
 -   Requêtes HTTP: `requêtes HTTP`_
